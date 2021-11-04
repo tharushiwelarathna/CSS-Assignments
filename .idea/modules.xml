@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment_01_Absolute Position/Assignment_01_Absolute Position.iml" filepath="$PROJECT_DIR$/Assignment_01_Absolute Position/Assignment_01_Absolute Position.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment_02_Fixed Circles/Assignment_02_Fixed Circles.iml" filepath="$PROJECT_DIR$/Assignment_02_Fixed Circles/Assignment_02_Fixed Circles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment_03_Sticky_Position/Assignment_03_Sticky_Position.iml" filepath="$PROJECT_DIR$/Assignment_03_Sticky_Position/Assignment_03_Sticky_Position.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment_04_Responsive_Web_Site/Assignment_04_Responsive_Web_Site.iml" filepath="$PROJECT_DIR$/Assignment_04_Responsive_Web_Site/Assignment_04_Responsive_Web_Site.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment_05_Grid_Layout/Assignment_05_Grid_Layout.iml" filepath="$PROJECT_DIR$/Assignment_05_Grid_Layout/Assignment_05_Grid_Layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment_06_Water_Drop/Assignment_06_Water_Drop.iml" filepath="$PROJECT_DIR$/Assignment_06_Water_Drop/Assignment_06_Water_Drop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment_07_Image_Slide_Show/Assignment_07_Image_Slide_Show.iml" filepath="$PROJECT_DIR$/Assignment_07_Image_Slide_Show/Assignment_07_Image_Slide_Show.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment_08_Car_Animation/Assignment_08_Car_Animation.iml" filepath="$PROJECT_DIR$/Assignment_08_Car_Animation/Assignment_08_Car_Animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment_09_Circle_Transition/Assignment_09_Circle_Transition.iml" filepath="$PROJECT_DIR$/Assignment_09_Circle_Transition/Assignment_09_Circle_Transition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSS_Assignments.iml" filepath="$PROJECT_DIR$/CSS_Assignments.iml" />
+    </modules>
+  </component>
+</project>
